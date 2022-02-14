@@ -7,3 +7,8 @@
 - "Oh no Ida if I bleed to death I will die"
 - "Everybody wants my blood because it's full of sugar"
 - "I go sleep now because my eyes are sleepy"
+- "Ida in my dream there was a short white boy behind you and you gave him a cheetah girls look"  
+  "when did you have this dream?"  
+  "right now"
+- tinder swiping based on made up background stories
+- "a bitch is gonna fall asleep"
