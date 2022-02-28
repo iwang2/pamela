@@ -12,3 +12,4 @@
   "right now"
 - tinder swiping based on made up background stories
 - "a bitch is gonna fall asleep"
+- "it got swollener!"
