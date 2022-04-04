@@ -13,4 +13,5 @@
 - tinder swiping based on made up background stories
 - "a bitch is gonna fall asleep"
 - "it got swollener!"
-- "I've never had umami before" "Oooh it's uni"
+- "I've never had umami before" (was talking about uni)
+- "do all cows produce milk? OR IS IT JUST THE FEMALE COWS"
