@@ -15,3 +15,5 @@
 - "it got swollener!"
 - "I've never had umami before" (was talking about uni)
 - "do all cows produce milk? OR IS IT JUST THE FEMALE COWS"
+- "I've lost control of my eyes"
+- "all the skinny bitches just knock out"
