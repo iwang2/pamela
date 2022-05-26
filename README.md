@@ -17,3 +17,5 @@
 - "do all cows produce milk? OR IS IT JUST THE FEMALE COWS"
 - "I've lost control of my eyes"
 - "all the skinny bitches just knock out"
+- "I wanna take you to an ice cream shop inManhattan, but I don't know what it's called" "is it van leeuwen's" "OH YEAH, I knew it had something to do with vampires!"
+- "nova scoh-tee-ah?"
