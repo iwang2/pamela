@@ -19,3 +19,4 @@
 - "all the skinny bitches just knock out"
 - "I wanna take you to an ice cream shop inManhattan, but I don't know what it's called" "is it van leeuwen's" "OH YEAH, I knew it had something to do with vampires!"
 - "nova scoh-tee-ah?"
+- "if I do want a headboard, I want it to be something weird. like a rainbow. or an orange."
