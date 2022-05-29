@@ -20,3 +20,7 @@
 - "I wanna take you to an ice cream shop inManhattan, but I don't know what it's called" "is it van leeuwen's" "OH YEAH, I knew it had something to do with vampires!"
 - "nova scoh-tee-ah?"
 - "if I do want a headboard, I want it to be something weird. like a rainbow. or an orange."
+- tries to imitate ringtones with her voice
+  -  "this is so hard, how do they make these noises"
+  -  "none of them are made by humans"
+  -  "ohh you're right"
