@@ -26,3 +26,4 @@
   -  "ohh you're right"
 - "I think daisy would judge me for the type of beer I drink"
 - "watiently"
+- "I'm not tired. My eyes just keep closing."
