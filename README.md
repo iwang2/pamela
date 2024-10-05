@@ -27,3 +27,7 @@
 - "I think daisy would judge me for the type of beer I drink"
 - "watiently"
 - "I'm not tired. My eyes just keep closing."
+- after ordering the moneybag pasta (described as pasta filled with cheese) at vincent's clam bar
+  - "I thought it would be a long tube with cheese inside"
+  - "Why did you think it's called moneybags?"
+  - "I thought that's what they call the person that makes the pasta"
