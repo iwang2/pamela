@@ -31,3 +31,9 @@
   - "I thought it would be a long tube with cheese inside"
   - "Why did you think it's called moneybags?"
   - "I thought that's what they call the person that makes the pasta"
+- holds up container full of guac: "these fries are really good!"
+  - we stared at each other for awhile. i was confused. she was confused about why i was confused.
+  - later that same car ride: holds up the chips and again says that the fries are really good
+- shrimp chips:
+  - "fish shrimps"
+  - "shrimp fimps"
