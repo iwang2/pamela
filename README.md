@@ -37,3 +37,4 @@
 - shrimp chips:
   - "fish shrimps"
   - "shrimp fimps"
+- "do you know colors of the wind from mulan"
