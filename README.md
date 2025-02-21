@@ -38,3 +38,11 @@
   - "fish shrimps"
   - "shrimp fimps"
 - "do you know colors of the wind from mulan"
+- falling asleep at night
+  - incoherent mumbling (sounded like "mama mama") + silence for a few minutes
+  - "oh no. our cholesterol is gonna be so high. we need to drink more water"
+  - "i still need to take my meds"
+  - slaps leg
+  - more silence
+  - "oh shoot. church tomorrow"
+  - "siri please set an alarm for 5am tomorrow"
