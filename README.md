@@ -49,3 +49,7 @@
   - wondered the next day why her alarm was set
 - "apple cross sciss sauce"
 - "is indigo purple"
+- Trying to think of the word mallet:
+  - "I also got a hatchet."
+  - "Hammer??"
+  - "Hamlet?"
