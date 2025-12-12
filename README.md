@@ -53,3 +53,10 @@
   - "I also got a hatchet."
   - "Hammer??"
   - "Hamlet?"
+- telling me where her car is
+  - "I parked my car in your parents car"
+  - "That's not possible. Do you mean you parked it nearby my parents car?"
+  - "No I parked it IN your parents car"
+  - "That's literally impossible, your car can't fit inside my parents car"
+  - "Well if I can't see it, I can't believe it"
+  - ???
