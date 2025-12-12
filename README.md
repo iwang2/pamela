@@ -37,6 +37,8 @@
 - shrimp chips:
   - "fish shrimps"
   - "shrimp fimps"
+- learns that she has aphantasia: "hang on I'm trying to see with my head"
+- "I'm gonna make a p drive. That means Pam drive" (when planning our Philippines trip itinerary)
 - "do you know colors of the wind from mulan"
 - falling asleep at night
   - incoherent mumbling (sounded like "mama mama") + silence for a few minutes
