@@ -55,10 +55,16 @@
   - "I also got a hatchet."
   - "Hammer??"
   - "Hamlet?"
-- telling me where her car is
-  - "I parked my car in your parents car"
-  - "That's not possible. Do you mean you parked it nearby my parents car?"
-  - "No I parked it IN your parents car"
-  - "That's literally impossible, your car can't fit inside my parents car"
-  - "Well if I can't see it, I can't believe it"
-  - ???
+- drank 5 glasses of pinot grigio at her work party
+  - telling me where her car is
+    - "I parked my car in your parents car"
+    - "That's not possible. Do you mean you parked it nearby my parents car?"
+    - "No I parked it IN your parents car"
+    - "That's literally impossible, your car can't fit inside my parents car"
+    - "Well if I can't see it, I can't believe it"
+    - ???
+  - worried about her car when I picked her up from the LIRR
+    - "oh no Ida do you think my car will be safe at your parents house? what if eric steals my car?"
+    - "eric won't steal your car. also he doesn't even have the keys."
+    - "oh you're right I have my keys"
+  - "my tree is slanted" (it was her TV)
