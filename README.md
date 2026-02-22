@@ -69,3 +69,7 @@
     - "oh you're right I have my keys"
   - "my tree is slanted" (it was her TV)
 - Trying to think of the name of cornhole: "corn on the cob"
+- trying to remember how to say "windshield wipers":
+  - "blades"
+  - "shower blades"
+  - "windows panes"
