@@ -73,3 +73,8 @@
   - "blades"
   - "shower blades"
   - "windows panes"
+- what sound does a horse make:
+  - "baa"
+  - "ni hao"
+- when eric was asking what to call jayvee, jayvee said: "whatever rolls the tongue"
+  - eric proceeds to call him jaime 
